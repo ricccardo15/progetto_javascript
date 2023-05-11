@@ -1,6 +1,12 @@
 [
     {
         "email": "test@test.it",
+        "nome_utente": "PIPPO LA COCA",
+        "stelle": 5,
+        "testo": "OTTIMA ROBA"
+    },
+    {
+        "email": "test@test.it",
         "nome_utente": "Bianca Mugli",
         "stelle": 5,
         "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
