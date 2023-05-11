@@ -1,0 +1,62 @@
+[
+    {
+        "email": "test@test.it",
+        "nome_utente": "Bianca Mugli",
+        "stelle": 5,
+        "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Lorendo Frago",
+        "stelle": 4,
+        "testo": "Il personale è stato molto accogliente e attento alle mie esigenze, e il fisioterapista che mi ha trattato era altamente qualificato e professionale."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Bianca Mugli",
+        "stelle": 3,
+        "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Bianca Mugli",
+        "stelle": 1,
+        "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Bianca Mugli",
+        "stelle": 4,
+        "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Bianca Mugli",
+        "stelle": 5,
+        "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Lorendo Frago",
+        "stelle": 5,
+        "testo": "Il personale è stato molto accogliente e attento alle mie esigenze, e il fisioterapista che mi ha trattato era altamente qualificato e professionale."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Bianca Mugli",
+        "stelle": 2,
+        "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Bianca Mugli",
+        "stelle": 3,
+        "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Bianca Mugli",
+        "stelle": 3,
+        "testo": "Ho visitato lo studio fisioterapico per un problema alla schiena e sono rimasto molto soddisfatto della mia esperienza."
+    }
+]
