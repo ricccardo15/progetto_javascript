@@ -1,0 +1,80 @@
+[
+    {
+        "email": "test@test.it",
+        "nome_utente": "Alice Rossi",
+        "stelle": 5,
+        "testo": "Ampia selezione di fumetti e personale cordiale."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Marco Verdi",
+        "stelle": 4,
+        "testo": "Personale accogliente e fisioterapisti professionali."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Giulia Bianchi",
+        "stelle": 3,
+        "testo": "Buona scelta di fumetti, ma migliorabile l'organizzazione del negozio."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Luca Neri",
+        "stelle": 1,
+        "testo": "Scarsa selezione di fumetti e personale poco disponibile."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Federica Gialli",
+        "stelle": 3,
+        "testo": "Ottima varietà di fumetti e personale competente."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Valerio Marrone",
+        "stelle": 5,
+        "testo": "Fantastica esperienza, vasta scelta di fumetti e personale gentile."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Simona Rossi",
+        "stelle": 5,
+        "testo": "Negozio accogliente e personale competente, ottima selezione di fumetti."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Giovanni Verdi",
+        "stelle": 2,
+        "testo": "Buona selezione di fumetti, ma personale poco attento alle richieste dei clienti."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Elena Bianchi",
+        "stelle": 2,
+        "testo": "Mista esperienza, alcuni fumetti interessanti ma servizio non all'altezza."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Alessandro Marrone",
+        "stelle": 5,
+        "testo": "Ampia selezione di fumetti e personale cordiale."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Claudia Verdi",
+        "stelle": 4,
+        "testo": "Personale accogliente e fisioterapisti professionali."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Stefano Bianchi",
+        "stelle": 4,
+        "testo": "Ottima varietà di fumetti e personale competente."
+    },
+    {
+        "email": "test@test.it",
+        "nome_utente": "Laura Neri",
+        "stelle": 5,
+        "testo": "Fantastica esperienza, vasta scelta di fumetti e personale gentile."
+    }
+]
